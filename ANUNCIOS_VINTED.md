@@ -1,172 +1,172 @@
-# Vinted listings: ready to copy and paste
+# Anuncios para Vinted: listos para copiar y pegar
 
-Edited photos: `fotos-vinted/` (1200×1600, 3:4 format, the one Vinted uses).
-Original photos: `originales/`.
+Fotos editadas: `fotos-vinted/` (1200×1600, formato 3:4, el que usa Vinted).
+Fotos originales: `originales/`.
 
-> **Before you publish, check these 3 things:** (1) the size of the black dress and the Zara dress (it can't be read in the photo), (2) the composition on the inner label of each item, and (3) add measurements if you can (armpit to armpit and total length). With measurements you get far fewer questions and returns.
+> **Antes de publicar, revisa 3 cosas:** (1) la talla del vestido negro y del vestido de Zara (en la foto no se lee), (2) la composición de la etiqueta interior de cada prenda y (3) añade medidas si puedes (axila a axila y largo total). Con medidas recibes muchas menos preguntas y devoluciones.
 
-**Pricing strategy:** the "List at" price leaves room for offers. The "Minimum" is the lowest offer worth accepting. Turn on **bundle discounts** in your profile (e.g. 10% for 2 items, 15% for 3+), because it makes each sale bigger.
+**Estrategia de precios:** el precio "Publicar a" deja margen para ofertas. El "Mínimo" es la oferta más baja que merece la pena aceptar. Activa los **descuentos por lote** en tu perfil (por ejemplo, 10 % por 2 prendas y 15 % por 3 o más), porque cada venta te sale más grande.
 
 ---
 
-## 1. Bershka biker jacket, faux leather, black, size S
+## 1. Cazadora biker Bershka efecto piel, negra, talla S
 
-**Photos:** `01_cazadora-cuero-bershka_frontal.jpg`, `02_cazadora-cuero-bershka_espalda.jpg`
-**Category:** Women > Clothing > Coats and jackets > Leather jackets
-**Brand:** Bershka · **Size:** S (EUR S / USA S / MEX 26) · **Condition:** Very good · **Colour:** Black
+**Fotos:** `01_cazadora-cuero-bershka_frontal.jpg`, `02_cazadora-cuero-bershka_espalda.jpg`
+**Categoría:** Mujer > Ropa > Abrigos y chaquetas > Chaquetas de cuero
+**Marca:** Bershka · **Talla:** S (EUR S / USA S / MEX 26) · **Estado:** Muy bueno · **Color:** Negro
 
-**Title:** Black biker jacket Bershka faux leather size S
+**Título:** Cazadora biker negra Bershka efecto piel talla S
 
-**Description:**
-> Black biker jacket from Bershka, leather-effect, size S. Cropped fit with asymmetric zip, silver snap-button lapels, zipped pockets, buckled hem and epaulettes on the back. Lined inside.
-> In very good condition, barely worn. A wardrobe staple that goes with everything: jeans, dresses or skirts.
-> 📦 Fast shipping, well packed. Bundle discount available!
+**Descripción:**
+> Cazadora biker negra de Bershka, efecto piel, talla S. Corte cropped con cremallera asimétrica, solapas con botones de presión plateados, bolsillos con cremallera, bajo con hebilla y charreteras en la espalda. Forrada por dentro.
+> En muy buen estado, apenas usada. Un básico del armario que combina con todo: vaqueros, vestidos o faldas.
+> 📦 Envío rápido y bien empaquetado. ¡Descuento por lote disponible!
 >
 > #bershka #biker #cazadora #polipiel #negra #rockera #basica
 
-**List at: €22** · Minimum: €17
+**Publicar a: 22 €** · Mínimo: 17 €
 
 ---
 
-## 2. Amichi denim tunic dress, size S
+## 2. Vestido túnica denim Amichi, talla S
 
-**Photos:** `03_vestido-denim-amichi_frontal.jpg`, `04_vestido-denim-amichi_espalda.jpg`
-**Category:** Women > Clothing > Dresses > Short dresses
-**Brand:** Amichi · **Size:** S · **Condition:** Very good · **Colour:** Blue
+**Fotos:** `03_vestido-denim-amichi_frontal.jpg`, `04_vestido-denim-amichi_espalda.jpg`
+**Categoría:** Mujer > Ropa > Vestidos > Vestidos cortos
+**Marca:** Amichi · **Talla:** S · **Estado:** Muy bueno · **Color:** Azul
 
-**Title:** Amichi denim tunic dress size S
+**Título:** Vestido túnica denim Amichi talla S
 
-**Description:**
-> Denim-blue dress from Amichi, size S. Soft, flowy fabric with a lightweight denim look. V-neckline with placket, smocked elastic gathering at the waist (front and back) that shapes the figure, and 3/4 sleeves.
-> Also works as a long tunic with leggings or skinny jeans. Comfy and very easy to wear for spring/autumn.
-> Very good condition.
-> 📦 Fast shipping. Bundle discount available!
+**Descripción:**
+> Vestido azul denim de Amichi, talla S. Tejido suave y fluido con aspecto vaquero ligero. Escote en V con tapeta, fruncido elástico en la cintura (delante y detrás) que marca la figura y manga 3/4.
+> También sirve como túnica larga con leggings o vaqueros pitillo. Cómodo y muy fácil de llevar en primavera y otoño.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
 >
 > #amichi #vestidodenim #tunica #vaquero #boho #casual
 
-**List at: €13** · Minimum: €9
+**Publicar a: 13 €** · Mínimo: 9 €
 
 ---
 
-## 3. Black fitted midi dress, off-shoulder neckline
+## 3. Vestido midi negro ajustado, escote barco
 
-**Photos:** `05_vestido-negro-midi_espalda.jpg` *(a front photo would help a lot)*
-**Category:** Women > Clothing > Dresses > Midi dresses
-**Brand:** ⚠️ *check label* · **Size:** ⚠️ *check label (looks like S)* · **Condition:** Very good · **Colour:** Black
+**Fotos:** `05_vestido-negro-midi_espalda.jpg` *(una foto de frente ayudaría mucho)*
+**Categoría:** Mujer > Ropa > Vestidos > Vestidos midi
+**Marca:** ⚠️ *revisa la etiqueta* · **Talla:** ⚠️ *revisa la etiqueta (parece S)* · **Estado:** Muy bueno · **Color:** Negro
 
-**Title:** Black fitted midi dress, off-shoulder neckline
+**Título:** Vestido midi negro ajustado escote barco
 
-**Description:**
-> Black midi dress with a fitted (bodycon) cut and off-shoulder neckline with short sleeves. Stretchy fabric that adapts to the body, concealed zip and slit at the back so you can walk comfortably.
-> A classic "little black dress": perfect for dinners, events or a night out with heels.
-> Very good condition.
-> 📦 Fast shipping. Bundle discount available!
+**Descripción:**
+> Vestido midi negro de corte ajustado (bodycon) con escote barco y manga corta. Tejido elástico que se adapta al cuerpo, cremallera invisible y abertura en la espalda para caminar con comodidad.
+> El clásico "vestidito negro": perfecto para cenas, eventos o una noche de fiesta con tacones.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
 >
 > #vestidonegro #midi #ajustado #bodycon #escotebardot #fiesta #basico
 
-**List at: €10** · Minimum: €7
-*(If the brand is a well-known one such as Zara, Mango or Stradivarius, you can go up to €12–14.)*
+**Publicar a: 10 €** · Mínimo: 7 €
+*(Si la marca es conocida, como Zara, Mango o Stradivarius, puedes subir a 12–14 €.)*
 
 ---
 
-## 4. ✨ Zara sequin dress, NEW WITH TAGS
+## 4. ✨ Vestido de lentejuelas Zara, NUEVO CON ETIQUETA
 
-**Photos:** `06_vestido-lentejuelas-zara_frontal.jpg`, `07_vestido-lentejuelas-zara_espalda.jpg`
-**Category:** Women > Clothing > Dresses > Party dresses
-**Brand:** Zara · **Size:** ⚠️ *check label* · **Condition:** **New with tags** · **Colour:** Silver / Bronze
+**Fotos:** `06_vestido-lentejuelas-zara_frontal.jpg`, `07_vestido-lentejuelas-zara_espalda.jpg`
+**Categoría:** Mujer > Ropa > Vestidos > Vestidos de fiesta
+**Marca:** Zara · **Talla:** ⚠️ *revisa la etiqueta* · **Estado:** **Nuevo con etiquetas** · **Color:** Plateado / Bronce
 
-**Title:** Zara sequin dress NEW WITH TAGS, silver bronze
+**Título:** Vestido lentejuelas Zara NUEVO CON ETIQUETA plateado bronce
 
-**Description:**
-> Zara sequin dress, **brand new with tags**, never worn.
-> Silver sequins that fade into bronze towards the hem, deep V-neckline, shoulder pads and gathered drape on the skirt that flatters the figure. Lined inside.
-> Perfect for Christmas, New Year's Eve, weddings, birthdays or any party. Shines beautifully in photos ✨
-> 📦 Carefully packed so the sequins aren't damaged. Bundle discount available!
+**Descripción:**
+> Vestido de lentejuelas de Zara, **nuevo con etiqueta**, sin estrenar.
+> Lentejuelas plateadas que degradan a bronce hacia el bajo, escote en V profundo, hombreras y drapeado fruncido en la falda que favorece mucho la figura. Forrado por dentro.
+> Perfecto para Navidad, Nochevieja, bodas, cumpleaños o cualquier fiesta. Brilla muchísimo en las fotos ✨
+> 📦 Lo empaqueto con cuidado para que no se estropeen las lentejuelas. ¡Descuento por lote disponible!
 >
 > #zara #lentejuelas #vestidofiesta #nochevieja #navidad #nuevoconetiqueta #plateado
 
-**List at: €29** · Minimum: €23
-💡 *This is your best item and it's the right season: publish it **now** (November–December is peak demand for party wear). If it gets lots of favourites in the first few days, hold the price; if not, drop to €25 the second week.*
+**Publicar a: 29 €** · Mínimo: 23 €
+💡 *Es tu mejor prenda y es la temporada justa: publícalo **ya** (noviembre y diciembre son el pico de demanda de ropa de fiesta). Si recibe muchos favoritos los primeros días, mantén el precio; si no, bájalo a 25 € la segunda semana.*
 
 ---
 
-## 5. Mango "Matilda" jeans, straight leg, size 38
+## 5. Vaqueros Mango "Matilda", rectos, talla 38
 
-**Photos:** `08_vaqueros-mango-matilda_frontal.jpg`, `09_vaqueros-mango-matilda_detalle.jpg`, `10_vaqueros-mango-matilda_espalda.jpg`
-**Category:** Women > Clothing > Jeans > Straight jeans
-**Brand:** Mango · **Size:** EUR 38 (USA 6) · **Condition:** Very good · **Colour:** Light blue
+**Fotos:** `08_vaqueros-mango-matilda_frontal.jpg`, `09_vaqueros-mango-matilda_detalle.jpg`, `10_vaqueros-mango-matilda_espalda.jpg`
+**Categoría:** Mujer > Ropa > Vaqueros > Vaqueros rectos
+**Marca:** Mango · **Talla:** EUR 38 (USA 6) · **Estado:** Muy bueno · **Color:** Azul claro
 
-**Title:** Mango Matilda jeans straight high-rise size 38
+**Título:** Vaqueros Mango Matilda rectos tiro alto talla 38
 
-**Description:**
-> Mango jeans, **Matilda** model, size 38 (USA 6). High-rise, straight leg with a slightly relaxed fit, in a light wash with a vintage effect. Five pockets, button and zip fly.
-> 100% rigid denim that holds its shape well. A very popular fit that flatters the figure and goes with everything.
-> Very good condition.
-> 📦 Fast shipping. Bundle discount available!
+**Descripción:**
+> Vaqueros de Mango, modelo **Matilda**, talla 38 (USA 6). Tiro alto, pernera recta con un corte ligeramente relajado, en lavado claro con efecto vintage. Cinco bolsillos, botón y bragueta de cremallera.
+> Denim rígido que mantiene bien la forma. Un corte muy buscado que favorece la figura y combina con todo.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
 >
 > #mango #mangomatilda #straightjeans #highwaist #vaquerosclaros #vintage #denim
 
-**List at: €18** · Minimum: €14
-*(If the "60 cm" on the hanger is the leg or waist measurement, add it to the description: that sells.)*
+**Publicar a: 18 €** · Mínimo: 14 €
+*(Si los "60 cm" de la percha son la medida de la pierna o de la cintura, añádelo a la descripción: eso vende.)*
 
 ---
 
-## 6. Pull&Bear denim jacket, distressed, size S
+## 6. Chaqueta vaquera Pull&Bear rota, talla S
 
-**Photos:** `11_chaqueta-vaquera-pullbear_frontal.jpg`, `12_chaqueta-vaquera-pullbear_espalda.jpg`
-**Category:** Women > Clothing > Coats and jackets > Denim jackets
-**Brand:** Pull&Bear · **Size:** S (EUR S / MEX 26) · **Condition:** Very good · **Colour:** Blue
+**Fotos:** `11_chaqueta-vaquera-pullbear_frontal.jpg`, `12_chaqueta-vaquera-pullbear_espalda.jpg`
+**Categoría:** Mujer > Ropa > Abrigos y chaquetas > Chaquetas vaqueras
+**Marca:** Pull&Bear · **Talla:** S (EUR S / MEX 26) · **Estado:** Muy bueno · **Color:** Azul
 
-**Title:** Pull&Bear denim jacket ripped size S
+**Título:** Chaqueta vaquera Pull&Bear rota talla S
 
-**Description:**
-> Pull&Bear denim jacket, size S. Classic trucker style in a mid-blue wash, with a **factory-made distressed effect** (rips on the yoke, shoulders and sleeves, part of the original design). Chest pockets with flaps, side pockets and adjustable buttoned tabs at the back.
-> An essential for spring and autumn, over dresses or with sporty basics.
-> Very good condition.
-> 📦 Fast shipping. Bundle discount available!
+**Descripción:**
+> Chaqueta vaquera de Pull&Bear, talla S. Estilo trucker clásico en lavado azul medio, con **efecto rasgado de fábrica** (rotos en el canesú, los hombros y las mangas, parte del diseño original). Bolsillos de pecho con solapa, bolsillos laterales y trabillas ajustables con botón en la espalda.
+> Imprescindible para primavera y otoño, sobre vestidos o con básicos deportivos.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
 >
 > #pullandbear #chaquetavaquera #denim #rota #oversize #basico #trucker
 
-**List at: €17** · Minimum: €12
+**Publicar a: 17 €** · Mínimo: 12 €
 
 ---
 
-## 7. Snipes hoodie, sage green, size S
+## 7. Sudadera con capucha Snipes, verde salvia, talla S
 
-**Photos:** `13_sudadera-snipes_frontal.jpg`, `14_sudadera-snipes_etiqueta.jpg`
-**Category:** Women > Clothing > Sweaters and sweatshirts > Hoodies *(or Men, since it's unisex: it reaches more buyers)*
-**Brand:** Snipes · **Size:** S · **Condition:** Very good · **Colour:** Green / Khaki
+**Fotos:** `13_sudadera-snipes_frontal.jpg`, `14_sudadera-snipes_etiqueta.jpg`
+**Categoría:** Mujer > Ropa > Jerséis y sudaderas > Sudaderas con capucha *(o Hombre, porque es unisex: llega a más compradores)*
+**Marca:** Snipes · **Talla:** S · **Estado:** Muy bueno · **Color:** Verde / Caqui
 
-**Title:** Snipes hoodie sage green size S unisex
+**Título:** Sudadera Snipes verde salvia talla S unisex
 
-**Description:**
-> Snipes hoodie in sage green, size S, unisex. Embroidered logo on the chest, hood with drawstring, kangaroo pocket and ribbed cuffs and hem. Soft brushed fleece lining, very warm.
-> Relaxed fit, perfect for a streetwear look or for being comfy at home.
-> Very good condition.
-> 📦 Fast shipping. Bundle discount available!
+**Descripción:**
+> Sudadera con capucha de Snipes en verde salvia, talla S, unisex. Logo bordado en el pecho, capucha con cordón, bolsillo canguro y puños y bajo de canalé. Interior afelpado suave, abriga mucho.
+> Corte relajado, perfecta para un look streetwear o para estar cómoda en casa.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
 >
 > #snipes #sudadera #hoodie #verdesalvia #streetwear #unisex #basico
 
-**List at: €18** · Minimum: €13
+**Publicar a: 18 €** · Mínimo: 13 €
 
 ---
 
-## Summary
+## Resumen
 
-| # | Item | List at | Minimum |
+| # | Prenda | Publicar a | Mínimo |
 |---|---|---|---|
-| 1 | Bershka biker jacket S | €22 | €17 |
-| 2 | Amichi denim dress S | €13 | €9 |
-| 3 | Black midi dress | €10 | €7 |
-| 4 | Zara sequin dress (new with tags) | €29 | €23 |
-| 5 | Mango Matilda jeans 38 | €18 | €14 |
-| 6 | Pull&Bear denim jacket S | €17 | €12 |
-| 7 | Snipes hoodie S | €18 | €13 |
-| | **Total** | **€127** | **€95** |
+| 1 | Cazadora biker Bershka S | 22 € | 17 € |
+| 2 | Vestido denim Amichi S | 13 € | 9 € |
+| 3 | Vestido midi negro | 10 € | 7 € |
+| 4 | Vestido lentejuelas Zara (nuevo con etiqueta) | 29 € | 23 € |
+| 5 | Vaqueros Mango Matilda 38 | 18 € | 14 € |
+| 6 | Chaqueta vaquera Pull&Bear S | 17 € | 12 € |
+| 7 | Sudadera Snipes S | 18 € | 13 € |
+| | **Total** | **127 €** | **95 €** |
 
-## Tips for selling more and faster on Vinted
-1. **First photo = front view of the item** (the edited ones are already ordered that way). Vinted allows up to 20 photos: also add a label close-up and, if possible, a photo of you wearing it, because that boosts sales a lot.
-2. **Publish between 19:00 and 22:00**, especially Sunday to Thursday. Upload 1–2 items a day instead of all at once: each new listing gets a few hours of visibility.
-3. **Respond to favourites:** when someone favourites an item, send them a small offer (–10%) through the "Send offer to interested buyers" button.
-4. **Re-upload** items that go 2–3 weeks without moving (delete and republish) instead of cutting the price in half.
-5. Always fill in **brand, size, condition, colour and material**, because buyers filter by those fields.
+## Consejos para vender más y más rápido en Vinted
+1. **Primera foto = la prenda de frente** (las editadas ya están ordenadas así). Vinted permite hasta 20 fotos: añade también un primer plano de la etiqueta y, si puedes, una foto tuya con la prenda puesta, porque eso dispara las ventas.
+2. **Publica entre las 19:00 y las 22:00**, sobre todo de domingo a jueves. Sube 1 o 2 prendas al día en vez de todas a la vez: cada anuncio nuevo tiene unas horas de visibilidad extra.
+3. **Responde a los favoritos:** cuando alguien marque una prenda como favorita, mándale una pequeña oferta (–10 %) con el botón "Enviar oferta a interesados".
+4. **Vuelve a subir** las prendas que lleven 2 o 3 semanas sin moverse (bórralas y publícalas de nuevo) en lugar de bajar el precio a la mitad.
+5. Rellena siempre **marca, talla, estado, color y material**, porque los compradores filtran por esos campos.
