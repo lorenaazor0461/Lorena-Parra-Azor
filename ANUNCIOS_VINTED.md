@@ -337,3 +337,105 @@ Fotos editadas: `fotos-vinted/bolsos-calzado/` · Originales: `originales/bolsos
 | | **Total lote 2** | **113 €** | **80 €** |
 
 **Total entre los dos lotes: 240 € publicando, 175 € como mínimo.**
+
+---
+---
+
+# Lote 3
+
+Fotos editadas: `fotos-vinted/lote3/` · Originales: `originales/lote3/`
+
+> **Antes de publicar:** revisa la talla del mono y de la chaqueta de pelo, y la marca de la chaqueta y del bolso de crochet. Plancha la camiseta Adidas antes de repetir la foto si puedes: las arrugas restan mucho.
+
+## 15. Mono largo Stradivarius negro, cuello halter
+
+**Fotos:** `30_…_frontal`, `31_…_espalda`, `32_…_etiqueta`
+**Categoría:** Mujer > Ropa > Monos > Monos largos
+**Marca:** Stradivarius · **Talla:** ⚠️ *revisa la etiqueta* · **Estado:** Muy bueno · **Color:** Negro
+
+**Título:** Mono largo negro Stradivarius halter pierna ancha
+
+**Descripción:**
+> Mono largo negro de Stradivarius con cuello halter anudado al cuello y escote cruzado en V. Espalda descubierta, cintura marcada con costura y pernera ancha y fluida.
+> Tejido texturizado con caída, que no se arruga y es muy cómodo. Ideal para cenas, bodas de tarde o eventos, con sandalias de tacón o con deportivas para un look más casual.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
+>
+> #stradivarius #mono #jumpsuit #negro #halter #fiesta #elegante
+
+**Publicar a: 16 €** · Mínimo: 11 €
+
+---
+
+## 16. Chaqueta de pelo sintético negra, corta
+
+**Fotos:** `33_…_abierta`, `34_…_frontal`
+**Categoría:** Mujer > Ropa > Abrigos y chaquetas > Abrigos de pelo sintético
+**Marca:** ⚠️ *revisa la etiqueta* · **Talla:** ⚠️ *revisa la etiqueta* · **Estado:** Muy bueno · **Color:** Negro
+
+**Título:** Chaqueta pelo sintético negra corta con cremallera
+
+**Descripción:**
+> Chaqueta corta de pelo sintético negro, muy suave y gustosa, con cuello alto y cierre de cremallera. Forrada por dentro y con puños y bajo recogidos. Abriga muchísimo.
+> El abrigo de la temporada: queda genial con vaqueros, vestidos o un mono negro para salir de noche.
+> Muy buen estado, el pelo está suelto y sin apelmazar.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
+>
+> #abrigopelo #fauxfur #chaquetapelo #negro #invierno #fiesta #pelosintetico
+
+**Publicar a: 25 €** · Mínimo: 18 €
+💡 *Es justo la temporada (noviembre a enero). Si es de Zara, Mango, Bershka o Stradivarius, ponlo en el título y sube a 28–30 €.*
+
+---
+
+## 17. Bolso de crochet beige con ositos de gominola
+
+**Fotos:** `35_…_frontal`, `36_…_trasera`
+**Categoría:** Mujer > Bolsos > Bolsos de hombro
+**Marca:** ⚠️ *revisa la etiqueta (si es artesanal, pon "Hecho a mano")* · **Estado:** Muy bueno · **Color:** Beige
+
+**Título:** Bolso crochet beige con ositos de colores
+
+**Descripción:**
+> Bolso de hombro de crochet en tono beige, con cinco ositos de gominola de colores (amarillo, lila, granate, azul y verde) aplicados en la parte delantera. Asas redondas forradas y cierre de cremallera. Trasera lisa.
+> Original, ligero y muy de tendencia: perfecto para primavera y verano o para darle color a un look básico.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
+>
+> #crochet #bolsocrochet #ositos #gummybear #kawaii #boho #bolsotejido
+
+**Publicar a: 15 €** · Mínimo: 10 €
+
+---
+
+## 18. Camiseta Adidas Originals 3 bandas melocotón, talla 40 (M)
+
+**Fotos:** `37_…`, `38_…_etiqueta`
+**Categoría:** Mujer > Ropa > Camisetas > Camisetas de manga corta
+**Marca:** Adidas · **Talla:** M / EUR 40 (UK 14 · US M · F 42) · **Estado:** Muy bueno · **Color:** Naranja / Melocotón
+
+**Título:** Camiseta Adidas Originals 3 bandas melocotón talla M
+
+**Descripción:**
+> Camiseta Adidas Originals modelo 3 bandas en color melocotón, talla M (EUR 40, UK 14). Logo trébol bordado en el pecho, las tres bandas blancas en los hombros y cuello y puños de canalé en contraste.
+> Algodón suave, un clásico retro que combina con todo.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
+>
+> #adidas #adidasoriginals #3stripes #trefoil #retro #melocoton #camiseta
+
+**Publicar a: 14 €** · Mínimo: 10 €
+
+---
+
+## Resumen lote 3
+
+| # | Artículo | Publicar a | Mínimo |
+|---|---|---|---|
+| 15 | Mono Stradivarius negro | 16 € | 11 € |
+| 16 | Chaqueta pelo sintético negra | 25 € | 18 € |
+| 17 | Bolso crochet ositos | 15 € | 10 € |
+| 18 | Camiseta Adidas 3 bandas M | 14 € | 10 € |
+| | **Total lote 3** | **70 €** | **49 €** |
+
+**Total entre los tres lotes: 310 € publicando, 224 € como mínimo.**
