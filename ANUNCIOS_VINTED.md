@@ -439,3 +439,179 @@ Fotos editadas: `fotos-vinted/lote3/` · Originales: `originales/lote3/`
 | | **Total lote 3** | **70 €** | **49 €** |
 
 **Total entre los tres lotes: 310 € publicando, 224 € como mínimo.**
+
+---
+---
+
+# Lote 4: camisetas y ropa deportiva
+
+Fotos editadas: `fotos-vinted/lote4/` · Originales: `originales/lote4/`
+
+> **Antes de publicar:** revisa la talla de cada prenda (sobre todo de la ropa deportiva, donde la talla es lo primero que miran) y la marca si la tienen. Mira con buena luz el top blanco y el top rosa: en la foto parecen tener alguna mancha o zona más amarillenta. Si la tienen, menciónalo en el anuncio para evitar reclamaciones.
+>
+> 💡 La ropa deportiva sin marca se vende mucho mejor **en lote** que por separado, por eso la he agrupado así.
+
+## 19. Camiseta NFL New York Giants (Primark), talla M
+
+**Fotos:** `40_…_frontal`, `41_…_espalda` *(compartidas con la camiseta gris)*
+**Categoría:** Mujer > Ropa > Camisetas > Camisetas de manga corta *(o Hombre: es unisex)*
+**Marca:** Primark · **Talla:** M · **Estado:** Muy bueno · **Color:** Azul
+
+**Título:** Camiseta NFL New York Giants azul talla M
+
+**Descripción:**
+> Camiseta oficial NFL de los New York Giants (Primark), talla M. Azul royal con el logo "GIANTS" bordado en el pecho, cinta con el logo en el cuello y el gran "NY" estampado en la espalda.
+> Algodón, corte recto unisex. Ideal para fans del fútbol americano o para un look sporty/streetwear.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
+>
+> #nfl #giants #newyorkgiants #camiseta #americanfootball #streetwear #unisex
+
+**Publicar a: 8 €** · Mínimo: 6 €
+
+---
+
+## 20. Camiseta gris "Good Lucky" con alas en la espalda
+
+**Fotos:** `40_…_frontal`, `41_…_espalda` *(compartidas con la camiseta Giants)*
+**Categoría:** Mujer > Ropa > Camisetas > Camisetas de manga corta
+**Marca:** ⚠️ *revisa la etiqueta* · **Talla:** ⚠️ *revisa la etiqueta* · **Estado:** Muy bueno · **Color:** Gris
+
+**Título:** Camiseta gris oversize alas espalda Good Lucky
+
+**Descripción:**
+> Camiseta gris jaspeada con "GOOD LUCKY" en el pecho y un gran estampado de alas negras con la palabra "FUTURE" en letra gótica en la espalda.
+> Corte recto y holgado, muy de estilo streetwear. Combina con vaqueros, cargo o mallas.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
+>
+> #camiseta #alas #wings #streetwear #oversize #gris #gotico
+
+**Publicar a: 7 €** · Mínimo: 5 €
+*(Si alguien te pregunta por las dos camisetas, ofrécelas juntas por 13 €.)*
+
+---
+
+## 21. Conjunto deportivo marrón de 3 piezas: top, leggings y shorts
+
+**Fotos:** `42_…_frontal`, `43_…_espalda`
+**Categoría:** Mujer > Ropa deportiva > Conjuntos
+**Marca:** ⚠️ *revisa la etiqueta* · **Talla:** ⚠️ *revisa la etiqueta* · **Estado:** Muy bueno · **Color:** Marrón
+
+**Título:** Conjunto deportivo marrón 3 piezas leggings shorts top
+
+**Descripción:**
+> Conjunto deportivo sin costuras en marrón chocolate, de tres piezas:
+> • Top con espalda de tiras cruzadas.
+> • Leggings de tiro alto con efecto push-up (scrunch) y zonas de rejilla transpirable.
+> • Shorts de ciclista de tiro alto con el mismo efecto push-up.
+> Tejido elástico que sujeta y estiliza. Perfecto para el gimnasio, yoga o pilates.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
+>
+> #conjuntodeportivo #gymwear #seamless #scrunch #pushup #leggings #marron
+
+**Publicar a: 18 €** · Mínimo: 13 €
+
+---
+
+## 22. Lote de 2 shorts deportivos tie-dye (rosa y verde)
+
+**Fotos:** `44_…_frontal`, `45_…_trasera`
+**Categoría:** Mujer > Ropa deportiva > Shorts
+**Marca:** ⚠️ *revisa la etiqueta* · **Talla:** ⚠️ *revisa la etiqueta* · **Estado:** Muy bueno · **Color:** Rosa / Verde
+
+**Título:** Lote 2 shorts deportivos tie-dye scrunch push-up
+
+**Descripción:**
+> Lote de dos shorts deportivos sin costuras con estampado tie-dye: uno en rosa palo con blanco y otro en verde caqui con negro.
+> Tiro alto con cintura ancha, efecto push-up (scrunch) en la parte trasera y zonas de rejilla transpirable.
+> Muy cómodos para el gimnasio o para correr.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
+>
+> #shorts #tiedye #scrunch #pushup #gymwear #seamless #ropadeportiva
+
+**Publicar a: 12 €** · Mínimo: 9 €
+
+---
+
+## 23. Lote de 3 shorts deportivos scrunch (azul, blanco y morado)
+
+**Fotos:** `46_…_frontal`, `47_…_trasera`
+**Categoría:** Mujer > Ropa deportiva > Shorts
+**Marca:** ⚠️ *revisa la etiqueta* · **Talla:** ⚠️ *revisa la etiqueta* · **Estado:** Muy bueno · **Color:** Azul / Blanco / Morado
+
+**Título:** Lote 3 shorts deportivos scrunch push-up azul blanco morado
+
+**Descripción:**
+> Lote de tres shorts deportivos sin costuras en azul, blanco roto y morado.
+> Tiro alto con cintura ancha que no se baja, efecto push-up (scrunch) en la parte trasera y tejido elástico que se adapta al cuerpo.
+> Perfectos para el gimnasio, crossfit, spinning o el día a día.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
+>
+> #shorts #scrunch #pushup #gymwear #seamless #ropadeportiva #biker
+
+**Publicar a: 15 €** · Mínimo: 11 €
+
+---
+
+## 24. Top deportivo Spalding x Pull&Bear negro, talla S
+
+**Fotos:** `48_top-spalding-pullbear-negro.jpg`
+**Categoría:** Mujer > Ropa deportiva > Sujetadores deportivos *(o Tops)*
+**Marca:** Pull&Bear · **Talla:** S (EUR S / USA S / MEX 26) · **Estado:** Muy bueno · **Color:** Negro
+
+**Título:** Top deportivo Spalding x Pull&Bear negro talla S
+
+**Descripción:**
+> Top deportivo crop de la colaboración Spalding x Pull&Bear, talla S. Negro con el logo "SPALDING" en blanco en el pecho, cuello alto redondo y espalda nadadora.
+> Tejido sin costuras y elástico, cómodo para entrenar o para llevar con un pantalón de tiro alto.
+> Muy buen estado.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
+>
+> #spalding #pullandbear #topdeportivo #crop #gymwear #negro #sporty
+
+**Publicar a: 9 €** · Mínimo: 6 €
+
+---
+
+## 25. Lote de 4 tops deportivos crop (negro, blanco y rosa)
+
+**Fotos:** `49_…_frontal`, `50_…_espalda`
+**Categoría:** Mujer > Ropa deportiva > Sujetadores deportivos
+**Marca:** ⚠️ *revisa las etiquetas* · **Talla:** ⚠️ *revisa las etiquetas* · **Estado:** Bueno · **Color:** Negro / Blanco / Rosa
+
+**Título:** Lote 4 tops deportivos crop espalda cruzada
+
+**Descripción:**
+> Lote de cuatro tops deportivos:
+> • Crop top negro de tirantes finos con espalda abierta y tiras cruzadas.
+> • Crop top blanco de tirantes con espalda de tiras cruzadas.
+> • Top negro tipo bralette con tirantes cruzados en la espalda.
+> • Top rosa palo con escote en V y cuello halter.
+> Ideales para yoga, pilates o para llevar debajo de una sudadera o camisa abierta.
+> Buen estado, con señales normales de uso.
+> 📦 Envío rápido. ¡Descuento por lote disponible!
+>
+> #topdeportivo #croptop #bralette #yoga #pilates #gymwear #lote
+
+**Publicar a: 12 €** · Mínimo: 8 €
+
+---
+
+## Resumen lote 4
+
+| # | Artículo | Publicar a | Mínimo |
+|---|---|---|---|
+| 19 | Camiseta NFL Giants M | 8 € | 6 € |
+| 20 | Camiseta gris alas "Good Lucky" | 7 € | 5 € |
+| 21 | Conjunto deportivo marrón 3 piezas | 18 € | 13 € |
+| 22 | Lote 2 shorts tie-dye | 12 € | 9 € |
+| 23 | Lote 3 shorts scrunch | 15 € | 11 € |
+| 24 | Top Spalding x Pull&Bear S | 9 € | 6 € |
+| 25 | Lote 4 tops deportivos | 12 € | 8 € |
+| | **Total lote 4** | **81 €** | **58 €** |
+
+**Total entre los cuatro lotes: 391 € publicando, 282 € como mínimo.**
